@@ -17,6 +17,7 @@ The first step is done. We need to now, move over to generate credentials which 
 ## How to generate application credentials for Google Calendar API?
 
 The first thing to do is to go to the OAuth Consent Screen tab, provide it an application name, pick all the necessary scopes that you would like to obtain permissions for. For instance, if you need only read permissions or edit, specify the checkboxes as per your need.
+
 ![image](https://karenapp.io/articles/images/Google-Blogs/gcalautomation/6.jpg)
 ![image](https://karenapp.io/articles/images/Google-Blogs/gcalautomation/7.jpg)
 
@@ -26,7 +27,9 @@ Once the application scope and consent screen is setup, we proceed to generating
 ![image](https://karenapp.io/articles/images/Google-Blogs/gcalautomation/8.jpg)
 ![image](https://karenapp.io/articles/images/Google-Blogs/gcalautomation/9.jpg)
 ![image](https://karenapp.io/articles/images/Google-Blogs/gcalautomation/10.jpg)
+
 Find the downloaded file and rename it as credentials.json, save it preferably in the same directory, where you will start writing your code.
+
 ![image](https://karenapp.io/articles/images/Google-Blogs/gcalautomation/11.jpg)
 
 ### Thanks [Keran.io](https://karenapp.io/) for the detailed explanation. [Source](https://karenapp.io/articles/how-to-automate-google-calendar-with-python-using-the-calendar-api/)
